@@ -7,5 +7,8 @@
     margin-right: 10%;
     padding-left: 5%;
     padding-right: 5%;
-    background-color: rgb(248, 1, 1);
+    background-color: rgba(95, 233, 223, 0.422);
+}
+.images{
+    height: 450px;
 }
