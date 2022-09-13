@@ -2,3 +2,10 @@
     background-color: wheat;
     align-content: center;
 }
+.content{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: paleturquoise;
+}
